@@ -1,2 +1,2 @@
 Hello,Git.
-Hello,User1
+Hello,User1 and User2.
